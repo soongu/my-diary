@@ -1,1 +1,2 @@
 오늘 git을 처음 배웠다.
+둘째 날, git add 와 commit 을 익혔다.
